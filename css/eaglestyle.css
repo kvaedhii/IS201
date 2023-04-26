@@ -1,0 +1,51 @@
+
+
+
+#graph{
+    display: block;
+    margin: 0 auto;
+    
+}
+#list{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+}
+body{
+    background-color: darkgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: darkslategray;
+}
+
+ol{
+    list-style-position: inside;
+    font-size: 23px;
+
+}
+ul{
+    list-style-position: outside;
+    font-size: 18px;
+}
+#anchor{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#youtube{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 30px;
+    right: 5px;
+}
+#howie{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.howie{
+    position: fixed;
+    left: 5px;
+    right: 30px;
+    height: 50px;
+}
